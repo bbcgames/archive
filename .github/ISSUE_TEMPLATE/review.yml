@@ -17,9 +17,8 @@ body:
     attributes:
       label: Review
       description: >-
-        Type up your review here! You can make it funny if you want. Funny =
-        Happy Echo
-      placeholder: 10/10 I love echo he is the best person ever yes he is so cool uwu
+        Type up your review here! You can make it funny if you want.
+      placeholder: horrible site
     validations:
       required: true
   - type: textarea
