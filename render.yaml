@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: bbc-website
+    env: static
+    staticPublishPath: .
